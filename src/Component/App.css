@@ -1,0 +1,8 @@
+body {
+    background-color: #F6F6F6;
+}
+
+.check-with-label:checked + .label-for-check {
+    text-decoration: line-through; 
+  }
+
